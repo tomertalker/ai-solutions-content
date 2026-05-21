@@ -1,33 +1,43 @@
-AI Solutions Israel — content_bank manifest
-Generated: 2026-05-20  (29 images, post-curation)
-Format: N | filename | post_id | platform | overlay
---------------------------------------------------------------------------------
- 1 | 20260515_090654_instagram_lead_miss_5min__instagram.png | 20260515_090654_instagram_lead_miss_5min | instagram | שאלו אותך "יש במלאי?" ב-21:40. ענית למחרת ב-7 בבוקר. הוא כבר קנה במקום אחר.
- 2 | 20260515_090709_facebook_team_meet_shirly__facebook.png | 20260515_090709_facebook_team_meet_shirly | facebook | תכירו את שירלי – היא קובעת תורים בזמן שאתה ישן.
- 3 | 20260515_090717_story_lead_miss_weekend__story.png | 20260515_090717_story_lead_miss_weekend | story | שלוש לקוחות כתבו לך ב-23:00 לקבוע תור. ענית למחרת. הן כבר היו אצל אחרת.
- 4 | 20260515_113530_instagram_success_story_leads__instagram.png | 20260515_113530_instagram_success_story_leads | instagram | יש מקום הערב? — ההודעה נכנסה ב-20:30. ראית אותה ב-23:00. השולחן כבר תפוס אצל אחר.
- 5 | 20260515_113539_facebook_lead_miss_5min__facebook.png | 20260515_113539_facebook_lead_miss_5min | facebook | הליד כתב ב-19:00. הנציג ראה ב-21:00. הלקוח כבר סגר עם מישהו אחר.
- 6 | 20260515_113547_story_speed_seconds__story.png | 20260515_113547_story_speed_seconds | story | 10 שניות. זה כל מה שלוקח לבוט לענות על "איפה ההזמנה שלי?".
- 7 | 20260515_123218_instagram_team_meet_danny__instagram.png | 20260515_123218_instagram_team_meet_danny | instagram | תכירי את דני – הוא עונה ללקוחות שלך בוואטסאפ בזמן שאת ישנה.
- 8 | 20260515_123230_facebook_admin_time_reminders__facebook.png | 20260515_123230_facebook_admin_time_reminders | facebook | כל בוקר את שולחת תזכורות ידנית. חצי שעה ביום, כל יום, שלא חוזרת אלייך.
- 9 | 20260515_123238_story_lead_miss_5min__story.png | 20260515_123238_story_lead_miss_5min | story | ליד שלא ענית לו תוך 5 דקות — הוא כבר הזמין שולחן אצל השכן.
-10 | adapted_01_COST_PAIN__facebook__facebook.png | adapted_01_COST_PAIN__facebook | facebook | מזכיר שעונה כל היום על אותן שאלות עולה לך אלפי שקלים בחודש.
-11 | adapted_01_COST_PAIN__instagram__instagram.png | adapted_01_COST_PAIN__instagram | instagram | מזכיר שעונה כל היום על אותן שאלות עולה לך אלפי שקלים בחודש.
-12 | adapted_01_COST_PAIN__story__story.png | adapted_01_COST_PAIN__story | story | מזכיר שעובד כל הלילה — בלי משכורת.
-13 | adapted_02_COST_PAIN__facebook__facebook.png | adapted_02_COST_PAIN__facebook | facebook | מזכירה עולה לך בערך 8,000 שח בחודש — חלק גדול מזה על אותן שאלות חוזרות.
-14 | adapted_02_COST_PAIN__instagram__instagram.png | adapted_02_COST_PAIN__instagram | instagram | מזכירה עולה לך בערך 8,000 שח בחודש — הרבה מזה על אותן שאלות.
-15 | adapted_02_COST_PAIN__story__story.png | adapted_02_COST_PAIN__story | story | אתה משלם אלפי שקלים בחודש על תשובות שחוזרות על עצמן.
-16 | adapted_03_COST_PAIN__facebook__facebook.png | adapted_03_COST_PAIN__facebook | facebook | אל תפטר את המזכיר. תפטר את המשימה ששורפת לו את היום.
-17 | adapted_05_HUMOR__instagram__instagram.png | adapted_05_HUMOR__instagram | instagram | הבוט לא לוקח יום מחלה.
-18 | adapted_06_SUCCESS_STORY__story__story.png | adapted_06_SUCCESS_STORY__story | story | הזמנות שמגיעות בוואטסאפ כשאף אחד לא ליד הטלפון — נענות לבד.
-19 | adapted_08_FOMO__facebook__facebook.png | adapted_08_FOMO__facebook | facebook | הבנאדם כתב לשניכם ב-2 בלילה. המתחרה ענה. אתה ישנת.
-20 | adapted_08_FOMO__instagram__instagram.png | adapted_08_FOMO__instagram | instagram | המתחרה שלך סגר לקוח בשעה 2 בלילה. שלך ישן.
-21 | adapted_08_FOMO__story__story.png | adapted_08_FOMO__story | story | הבנאדם כתב לשניכם ב-2 בלילה. המתחרה ענה. אצלך אין מי שיענה.
-22 | adapted_09_FOMO__facebook__facebook.png | adapted_09_FOMO__facebook | facebook | המתחרים שלך כבר עונים ללקוחות בחצות. אתה עדיין לא.
-23 | adapted_09_FOMO__instagram__instagram.png | adapted_09_FOMO__instagram | instagram | המתחרים שלך סוגרים לידים בזמן שאתה ישן.
-24 | adapted_09_FOMO__story__story.png | adapted_09_FOMO__story | story | המתחרים שלך עונים ללקוחות בחצות. אתה עדיין לא.
-25 | adapted_10_CONTRARIAN__facebook__facebook.png | adapted_10_CONTRARIAN__facebook | facebook | אוטומציה לא מחליפה עובדים — היא מחליפה תהליכים.
-26 | adapted_10_CONTRARIAN__instagram__instagram.png | adapted_10_CONTRARIAN__instagram | instagram | אוטומציה לא באה להחליף עובדים. היא באה להחליף תהליכים.
-27 | adapted_10_CONTRARIAN__story__story.png | adapted_10_CONTRARIAN__story | story | אוטומציה לא מחליפה עובדים — היא מחליפה תהליכים.
-28 | adapted_2026-03-30_facebook_post_01__story__story.png | adapted_2026-03-30_facebook_post_01__story | story | המזכירה לא עונה אחרי שש. הבוט כן.
-29 | adapted_2026-03-31_facebook_post_02__facebook__facebook.png | adapted_2026-03-31_facebook_post_02__facebook | facebook | 70% מהפניות לא מקבלות מענה תוך 5 דקות.
+20260515_090654_instagram_lead_miss_5min__instagram.png
+20260515_090709_facebook_team_meet_shirly__facebook.png
+20260515_090717_story_lead_miss_weekend__story.png
+20260515_113530_instagram_success_story_leads__instagram.png
+20260515_113539_facebook_lead_miss_5min__facebook.png
+20260515_113547_story_speed_seconds__story.png
+20260515_123218_instagram_team_meet_danny__instagram.png
+20260515_123230_facebook_admin_time_reminders__facebook.png
+20260515_123238_story_lead_miss_5min__story.png
+adapted_01_COST_PAIN__facebook__facebook.png
+adapted_01_COST_PAIN__instagram__instagram.png
+adapted_01_COST_PAIN__story__story.png
+adapted_02_COST_PAIN__facebook__facebook.png
+adapted_02_COST_PAIN__instagram__instagram.png
+adapted_02_COST_PAIN__story__story.png
+adapted_03_COST_PAIN__facebook__facebook.png
+adapted_04_HUMOR__instagram__instagram.png
+adapted_04_HUMOR__story__story.png
+adapted_05_HUMOR__facebook__facebook.png
+adapted_05_HUMOR__instagram__instagram.png
+adapted_05_HUMOR__story__story.png
+adapted_06_SUCCESS_STORY__story__story.png
+adapted_08_FOMO__facebook__facebook.png
+adapted_08_FOMO__instagram__instagram.png
+adapted_08_FOMO__story__story.png
+adapted_09_FOMO__facebook__facebook.png
+adapted_09_FOMO__instagram__instagram.png
+adapted_09_FOMO__story__story.png
+adapted_10_CONTRARIAN__facebook__facebook.png
+adapted_10_CONTRARIAN__instagram__instagram.png
+adapted_10_CONTRARIAN__story__story.png
+adapted_2026-03-30_facebook_post_01__facebook__facebook.png
+adapted_2026-03-30_facebook_post_01__instagram__instagram.png
+adapted_2026-03-30_facebook_post_01__story__story.png
+adapted_2026-03-30_facebook_post_02__facebook__facebook.png
+adapted_2026-03-30_facebook_post_02__instagram__instagram.png
+adapted_2026-03-30_facebook_post_02__story__story.png
+adapted_2026-03-31_facebook_post_01__facebook__facebook.png
+adapted_2026-03-31_facebook_post_01__instagram__instagram.png
+adapted_2026-03-31_facebook_post_01__story__story.png
+adapted_2026-03-31_facebook_post_02__facebook__facebook.png
+adapted_2026-03-31_facebook_post_02__instagram__instagram.png
+adapted_2026-03-31_facebook_post_02__story__story.png
