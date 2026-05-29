@@ -45,3 +45,4 @@ adapted_2026-03-31_facebook_post_01__story__story.png
 adapted_2026-03-31_facebook_post_02__facebook__facebook.png
 adapted_2026-03-31_facebook_post_02__instagram__instagram.png
 adapted_2026-03-31_facebook_post_02__story__story.png
+meet_team_maya.png
